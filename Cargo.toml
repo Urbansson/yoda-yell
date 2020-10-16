@@ -1,0 +1,9 @@
+[package]
+name = "yell-bot"
+version = "0.1.0"
+authors = ["Theodor Brandt <Teddy@brandts.se>"]
+edition = "2018"
+
+[dependencies]
+tokio = { version = "0.2", features = ["full"] }
+serenity = { version = "0.9.0-rc.2", features = ["cache","voice"] }
