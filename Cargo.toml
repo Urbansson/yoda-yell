@@ -1,7 +1,7 @@
 [package]
 name = "yell-bot"
 version = "0.1.0"
-authors = ["Theodor Brandt <Teddy@brandts.se>"]
+authors = ["Theodor Brandt <me@brandts.dev>"]
 edition = "2018"
 
 [dependencies]
